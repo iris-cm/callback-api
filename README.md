@@ -25,3 +25,5 @@
 "deleteMessages" - Ub.Callback.DeleteMessages - сигнал о необходимости удалить сообщения
 
 "printBookmark" - Ub.Callback.PrintBookmark - сигнал о необходимости показать сообщение из истории
+
+Подробное описание структуры сигналов в статье https://vk.com/@iris_live-api2
